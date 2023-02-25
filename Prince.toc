@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Prince Nazjak
+## Notes: Targets Prince Nazjak and plays a sound
+## Author: Maniac
+## Version: 0.0.1
+
+Prince.lua
